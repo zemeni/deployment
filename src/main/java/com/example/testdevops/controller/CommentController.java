@@ -2,7 +2,6 @@ package com.example.testdevops.controller;
 
 import com.example.testdevops.payload.CommentDto;
 import com.example.testdevops.service.CommentService;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
