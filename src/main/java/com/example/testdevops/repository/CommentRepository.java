@@ -1,7 +1,6 @@
 package com.example.testdevops.repository;
 
 import com.example.testdevops.entity.Comment;
-import com.example.testdevops.payload.CommentDto;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
